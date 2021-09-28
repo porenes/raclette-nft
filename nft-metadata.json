@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Focal",
+            "value": "135mm"
+        }
+    ],
+    "description": "Just a lens, an eye on the world",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPmZhTNvmCtu1bMiEv3rLkKovfuXa6Ex6K3EVeem7Zi2m",
+    "name": "Tamron 135mm f/2.8"
+}
